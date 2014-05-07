@@ -1,4 +1,4 @@
-var animal = require('./animal'),
+var animal = require('../animal'),
     should = require('should');
 
 describe('Animal', function() {
