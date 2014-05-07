@@ -363,6 +363,90 @@
   },
   "Refs": [
     {
+      "SymbolRepo": "github.com/joyent/node",
+      "SymbolUnitType": "CommonJSPackage",
+      "SymbolUnit": ".",
+      "SymbolPath": "commonjs/lib/assert.js/-/Assertion/prototype/eql",
+      "File": "test/animal_test.js",
+      "Start": 1145,
+      "End": 1148,
+      "AuthorEmail": "qslack@qslack.com",
+      "LastCommitDate": "2013-06-30T11:52:57Z",
+      "LastCommitID": "b8a3e9f14084907d0ead0d84cd87f1383de97547"
+    },
+    {
+      "SymbolRepo": "github.com/joyent/node",
+      "SymbolUnitType": "CommonJSPackage",
+      "SymbolUnit": ".",
+      "SymbolPath": "commonjs/lib/assert.js/-/Assertion/prototype/eql",
+      "File": "test/animal_test.js",
+      "Start": 204,
+      "End": 207,
+      "AuthorEmail": "qslack@qslack.com",
+      "LastCommitDate": "2013-06-30T11:52:57Z",
+      "LastCommitID": "b8a3e9f14084907d0ead0d84cd87f1383de97547"
+    },
+    {
+      "SymbolRepo": "github.com/joyent/node",
+      "SymbolUnitType": "CommonJSPackage",
+      "SymbolUnit": ".",
+      "SymbolPath": "commonjs/lib/assert.js/-/Assertion/prototype/eql",
+      "File": "test/animal_test.js",
+      "Start": 336,
+      "End": 339,
+      "AuthorEmail": "qslack@qslack.com",
+      "LastCommitDate": "2013-06-30T11:52:57Z",
+      "LastCommitID": "b8a3e9f14084907d0ead0d84cd87f1383de97547"
+    },
+    {
+      "SymbolRepo": "github.com/joyent/node",
+      "SymbolUnitType": "CommonJSPackage",
+      "SymbolUnit": ".",
+      "SymbolPath": "commonjs/lib/assert.js/-/Assertion/prototype/eql",
+      "File": "test/animal_test.js",
+      "Start": 481,
+      "End": 484,
+      "AuthorEmail": "qslack@qslack.com",
+      "LastCommitDate": "2013-06-30T11:52:57Z",
+      "LastCommitID": "b8a3e9f14084907d0ead0d84cd87f1383de97547"
+    },
+    {
+      "SymbolRepo": "github.com/joyent/node",
+      "SymbolUnitType": "CommonJSPackage",
+      "SymbolUnit": ".",
+      "SymbolPath": "commonjs/lib/assert.js/-/Assertion/prototype/eql",
+      "File": "test/animal_test.js",
+      "Start": 647,
+      "End": 650,
+      "AuthorEmail": "qslack@qslack.com",
+      "LastCommitDate": "2013-06-30T11:52:57Z",
+      "LastCommitID": "b8a3e9f14084907d0ead0d84cd87f1383de97547"
+    },
+    {
+      "SymbolRepo": "github.com/joyent/node",
+      "SymbolUnitType": "CommonJSPackage",
+      "SymbolUnit": ".",
+      "SymbolPath": "commonjs/lib/assert.js/-/Assertion/prototype/eql",
+      "File": "test/animal_test.js",
+      "Start": 816,
+      "End": 819,
+      "AuthorEmail": "qslack@qslack.com",
+      "LastCommitDate": "2013-06-30T11:52:57Z",
+      "LastCommitID": "b8a3e9f14084907d0ead0d84cd87f1383de97547"
+    },
+    {
+      "SymbolRepo": "github.com/joyent/node",
+      "SymbolUnitType": "CommonJSPackage",
+      "SymbolUnit": ".",
+      "SymbolPath": "commonjs/lib/assert.js/-/Assertion/prototype/eql",
+      "File": "test/animal_test.js",
+      "Start": 991,
+      "End": 994,
+      "AuthorEmail": "qslack@qslack.com",
+      "LastCommitDate": "2013-06-30T11:52:57Z",
+      "LastCommitID": "b8a3e9f14084907d0ead0d84cd87f1383de97547"
+    },
+    {
       "SymbolUnitType": "CommonJSPackage",
       "SymbolUnit": ".",
       "SymbolPath": "commonjs/animal.js/-/Animal",
@@ -1354,6 +1438,15 @@
     }
   ],
   "ClientsOfOtherUnits": [
+    {
+      "AuthorEmail": "qslack@qslack.com",
+      "LastCommitDate": "2013-06-30T11:52:57Z",
+      "LastCommitID": "b8a3e9f14084907d0ead0d84cd87f1383de97547",
+      "SymbolRepo": "github.com/joyent/node",
+      "SymbolUnitType": "CommonJSPackage",
+      "SymbolUnit": ".",
+      "RefCount": 7
+    },
     {
       "AuthorEmail": "qslack@qslack.com",
       "LastCommitDate": "2014-05-07T04:45:44Z",
